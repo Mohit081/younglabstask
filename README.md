@@ -1,7 +1,7 @@
 **how to setup project**
 
 **backend**
-npm init -y
+npm init -y /n
 npm i express
 
 **frontend**
