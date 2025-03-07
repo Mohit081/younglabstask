@@ -1,10 +1,10 @@
 **how to setup project**
 
-**backend**
-npm init -y /n
+**_backend_**
+npm init -y 
 npm i express
 
-**frontend**
+**_frontend_**
 create react app 
 npm install
 
