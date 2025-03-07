@@ -1,5 +1,13 @@
 **how to setup project**
 
+**backend**
+npm init -y
+npm i express
+
+**frontend**
+create react app 
+npm install
+
 **start backend**
 cd backend - npm start 
 
